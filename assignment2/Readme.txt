@@ -1,0 +1,1 @@
+Upload csv file or direct the csv file to run Q2 cords
